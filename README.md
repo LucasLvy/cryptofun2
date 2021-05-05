@@ -1,7 +1,5 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![Discord][discord-shield]][discord-url]
 [![Telegram][telegram-shield]][telegram-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
