@@ -1,9 +1,22 @@
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+[contributors-shield]: https://img.shields.io/github/contributors/LucasLvy/cryptofun2.svg?style=for-the-badge
+[contributors-url]: https://github.com/LucasLvy/cryptofun2/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/LucasLvy/cryptofun2.svg?style=for-the-badge
+[forks-url]: https://github.com/LucasLvy/cryptofun2/network/members
+[stars-shield]: https://img.shields.io/github/stars/LucasLvy/cryptofun2.svg?style=for-the-badge
+[stars-url]: https://github.com/LucasLvy/cryptofun2/stargazers
+[issues-shield]: https://img.shields.io/github/issues/LucasLvy/cryptofun2.svg?style=for-the-badge
+[issues-url]: https://github.com/LucasLvy/cryptofun2/issues
+[license-shield]: https://img.shields.io/github/license/LucasLvy/cryptofun2.svg?style=for-the-badge
+[license-url]: https://github.com/LucasLvy/cryptofun2/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/LucasLvy
 # CryptoFun
 
 Bienvenue sur le site CryptoFun, réalisé par Quentin GIBON et Lucas LEVY.
