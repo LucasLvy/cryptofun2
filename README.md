@@ -18,8 +18,9 @@
 [issues-url]: https://github.com/LucasLvy/cryptofun2/issues
 [license-shield]: https://img.shields.io/github/license/LucasLvy/cryptofun2.svg?style=for-the-badge
 [telegram-url]: https://t.me/smartlinkofficial
-[telegram-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[telegram-shield]: https://img.shields.io/badge/-Telegram-black.svg?style=for-the-badge&logo=Telegram&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/smartlinkso
+[linkedin-shield]: https://img.shields.io/badge/-Linkedin-black.svg?style=for-the-badge&logo=Linkedin
 [discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord
 [discord-url]:https://discord.gg/Rut5xxqGWQ
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter
