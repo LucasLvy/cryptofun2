@@ -2,8 +2,11 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Discord][discord-shield]][discord-url]
+[![Telegram][telegram-shield]][telegram-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Twitter][twitter-shield]][twitter-url]
+[![Reddit][Dribbble-shield]][dribbble-url]
 
 [contributors-shield]: https://img.shields.io/github/contributors/LucasLvy/cryptofun2.svg?style=for-the-badge
 [contributors-url]: https://github.com/LucasLvy/cryptofun2/graphs/contributors
@@ -14,9 +17,16 @@
 [issues-shield]: https://img.shields.io/github/issues/LucasLvy/cryptofun2.svg?style=for-the-badge
 [issues-url]: https://github.com/LucasLvy/cryptofun2/issues
 [license-shield]: https://img.shields.io/github/license/LucasLvy/cryptofun2.svg?style=for-the-badge
-[license-url]: https://github.com/LucasLvy/cryptofun2/blob/master/LICENSE.txt
+[telegram-url]: https://t.me/smartlinkofficial
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/LucasLvy
+[linkedin-url]: https://www.linkedin.com/company/smartlinkso
+[discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord
+[discord-url]:https://discord.gg/Rut5xxqGWQ
+[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter
+[twitter-url]:https://twitter.com/smartlinkHQ
+[reddit-shield]: https://img.shields.io/badge/-reddit-black.svg?style=for-the-badge&logo=reddit
+[reddit-url]:https://www.reddit.com/user/Teamsmartlink/
+
 # CryptoFun
 
 Bienvenue sur le site CryptoFun, réalisé par Quentin GIBON et Lucas LEVY.
