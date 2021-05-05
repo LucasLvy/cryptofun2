@@ -23,9 +23,7 @@
 [reddit-url]:https://www.reddit.com/user/Teamsmartlink/
 
 ###### Home
-![home](https://ipfs.io/ipfs/Qmd1q8kxZmrqeZYQyp68QTuyL1fAPH21NuuyjuMJfR7xB5)
-##### Marketplace
-![marketplace](https://ipfs.io/ipfs/QmRfVmL5PuFHutsafEBcfMnZ59AAXTZpkkpSHKT2WK1hKj)
+![home](https://ipfs.io/ipfs/Qmd1q8kxZmrqeZYQyp68QTuyL1fAPH21NuuyjuMJfR7xB5) ![marketplace](https://ipfs.io/ipfs/QmRfVmL5PuFHutsafEBcfMnZ59AAXTZpkkpSHKT2WK1hKj)
 ##### Offers
 ![offers](https://ipfs.io/ipfs/QmbRxnZyEcEZkURqc25j2jdSNwBKZM9HP9MzdHcvwfS53x)
 ##### Tracking
