@@ -23,16 +23,17 @@
 [reddit-url]:https://www.reddit.com/user/Teamsmartlink/
 
 ###### Home
-Home            |  MarketPlace
+![home](https://ipfs.io/ipfs/Qmd1q8kxZmrqeZYQyp68QTuyL1fAPH21NuuyjuMJfR7xB5)
+
+MarketPlace                       |  Offres
 :-------------------------:|:-------------------------:
-![home](https://ipfs.io/ipfs/Qmd1q8kxZmrqeZYQyp68QTuyL1fAPH21NuuyjuMJfR7xB5)  |  ![marketplace](https://ipfs.io/ipfs/QmRfVmL5PuFHutsafEBcfMnZ59AAXTZpkkpSHKT2WK1hKj)
+![marketplace](https://ipfs.io/ipfs/QmRfVmL5PuFHutsafEBcfMnZ59AAXTZpkkpSHKT2WK1hKj)  |  ![offers](https://ipfs.io/ipfs/QmbRxnZyEcEZkURqc25j2jdSNwBKZM9HP9MzdHcvwfS53x)|
  
-##### Offers
-![offers](https://ipfs.io/ipfs/QmbRxnZyEcEZkURqc25j2jdSNwBKZM9HP9MzdHcvwfS53x)
-##### Tracking
-![tracking](https://ipfs.io/ipfs/QmQ9cmeSqK73Y9APQEivXFbHCL5svvQGeLTgwtoFGJ9rTq)
-##### Admin
-![marketplace](https://ipfs.io/ipfs/QmUWqrQ3EJsPGHFtbYu2PbvA7G3UUNsxjWR2ofr8QqTvMY)
+ Tracking                       |  Admin
+:-------------------------:|:-------------------------:
+![tracking](https://ipfs.io/ipfs/QmQ9cmeSqK73Y9APQEivXFbHCL5svvQGeLTgwtoFGJ9rTq)| ![marketplace](https://ipfs.io/ipfs/QmUWqrQ3EJsPGHFtbYu2PbvA7G3UUNsxjWR2ofr8QqTvMY)|
+
+
 
 
 # CryptoFun
