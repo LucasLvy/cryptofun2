@@ -23,7 +23,7 @@
 [reddit-url]:https://www.reddit.com/user/Teamsmartlink/
 
 ###### Home
-Solarized dark             |  Solarized Ocean
+Home            |  MarketPlace
 :-------------------------:|:-------------------------:
 ![home](https://ipfs.io/ipfs/Qmd1q8kxZmrqeZYQyp68QTuyL1fAPH21NuuyjuMJfR7xB5)  |  ![marketplace](https://ipfs.io/ipfs/QmRfVmL5PuFHutsafEBcfMnZ59AAXTZpkkpSHKT2WK1hKj)
  
