@@ -6,7 +6,7 @@
 [![Twitter][twitter-shield]][twitter-url]
 [![Reddit][reddit-shield]][reddit-url]
 
-[contributors-shield]: https://img.shields.io/github/contributors/LucasLvy/cryptofun2.svg
+[contributors-shield]: https://img.shields.io/github/contributors/LucasLvy/cryptofun2.svg?style=for-the-badge
 [contributors-url]: https://github.com/LucasLvy/cryptofun2/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/LucasLvy/cryptofun2.svg?style=for-the-badge
 [forks-url]: https://github.com/LucasLvy/cryptofun2/network/members
