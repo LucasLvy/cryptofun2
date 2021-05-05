@@ -6,7 +6,7 @@
 [![Telegram][telegram-shield]][telegram-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
-[![Reddit][Dribbble-shield]][dribbble-url]
+[![Reddit][reddit-shield]][reddit-url]
 
 [contributors-shield]: https://img.shields.io/github/contributors/LucasLvy/cryptofun2.svg?style=for-the-badge
 [contributors-url]: https://github.com/LucasLvy/cryptofun2/graphs/contributors
