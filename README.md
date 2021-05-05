@@ -1,4 +1,9 @@
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 # CryptoFun
 
 Bienvenue sur le site CryptoFun, réalisé par Quentin GIBON et Lucas LEVY.
