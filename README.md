@@ -5,26 +5,22 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![Reddit][reddit-shield]][reddit-url]
-
-[contributors-shield]: https://img.shields.io/github/contributors/LucasLvy/cryptofun2.svg?style=for-the-badge
-[contributors-url]: https://github.com/LucasLvy/cryptofun2/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/LucasLvy/cryptofun2.svg?style=for-the-badge
-[forks-url]: https://github.com/LucasLvy/cryptofun2/network/members
-[stars-shield]: https://img.shields.io/github/stars/LucasLvy/cryptofun2.svg?style=for-the-badge
-[stars-url]: https://github.com/LucasLvy/cryptofun2/stargazers
-[issues-shield]: https://img.shields.io/github/issues/LucasLvy/cryptofun2.svg?style=for-the-badge
-[issues-url]: https://github.com/LucasLvy/cryptofun2/issues
-[license-shield]: https://img.shields.io/github/license/LucasLvy/cryptofun2.svg?style=for-the-badge
+![GitHub Logo](https://token.smartlink.so/wp-content/uploads/2021/04/Logo-HD-1.png)
+[contributors-shield]: https://img.shields.io/github/contributors/SmartLlink/Smartlink-Escrow.svg?style=for-the-badge
+[contributors-url]: https://github.com/SmartLlink/Smartlink-Escrow/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SmartLlink/Smartlink-Escrow.svg?style=for-the-badge
+[forks-url]: https://github.com/SmartLlink/Smartlink-Escrow/network/members
 [telegram-url]: https://t.me/smartlinkofficial
-[telegram-shield]: https://img.shields.io/badge/-Telegram-black.svg?style=for-the-badge&logo=Telegram
+[telegram-shield]: https://img.shields.io/badge/-Telegram-black.svg?style=for-the-badge&logo=Telegram&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/smartlinkso
-[linkedin-shield]: https://img.shields.io/badge/-Linkedin-black.svg?style=for-the-badge&logo=Linkedin
-[discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord
+[linkedin-shield]: https://img.shields.io/badge/-Linkedin-black.svg?style=for-the-badge&logo=Linkedin&colorB=555
+[discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord&colorB=555
 [discord-url]:https://discord.gg/Rut5xxqGWQ
-[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter
+[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
 [twitter-url]:https://twitter.com/smartlinkHQ
-[reddit-shield]: https://img.shields.io/badge/-reddit-black.svg?style=for-the-badge&logo=reddit
+[reddit-shield]: https://img.shields.io/badge/-reddit-black.svg?style=for-the-badge&logo=reddit&colorB=555
 [reddit-url]:https://www.reddit.com/user/Teamsmartlink/
+
 
 # CryptoFun
 
